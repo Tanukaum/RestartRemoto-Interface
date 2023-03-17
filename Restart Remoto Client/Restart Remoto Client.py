@@ -12,8 +12,7 @@ global Index_nick, Index_url
 Index_nick = Index_url = ''
 
 #Usado para listar quais máquinas estão sendo verificadas e as aplicações de cada uma delas
-#url_of_all_machines = [''http://10.74.154.233:5000/', 'http://172.22.160.48:5000/', 'http://172.22.160.49:5000/','http://172.22.160.50:5000/','http://172.22.160.51:5000/']
-url_of_all_machines = ['http://10.74.154.233:5000/']
+url_of_all_machines = ['http://localhost:5000/']
 
 list_programs = list()
 
